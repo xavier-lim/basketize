@@ -19,7 +19,7 @@ Basketize is an optimization model whose main objective is to minimize an NBA te
 5.	Run Basketize.ipynb
 
 ## Acknowledgements
-* Holly Weiberg, PhD Candidate at MIT Operations Research Center, presented a workshop at the 2020 MIT Sloan Sports Analytics Conference (SSAC) about optimizing rosters.
+* Holly Wiberg, PhD Candidate at MIT Operations Research Center, presented a workshop at the 2020 MIT Sloan Sports Analytics Conference (SSAC) about optimizing rosters.
   * [Github Repo](https://github.com/hwiberg/SSAC2020)
   * [SSAC20: An Optimization Approach to Roster Creation](https://www.youtube.com/watch?v=_eBk1bSjDs8)
 
