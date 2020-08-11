@@ -18,10 +18,12 @@ To view the article I wrote about my model on LinkedIn, please visit: [Basketize
 ## Project Tools
 *     Julia - [Download Julia](https://julialang.org/downloads/) 
 *     Jupyter Notebook - To create a Jupyter Notebook, open Julia and insert the following lines of code
+
       ```
       julia> using IJulia()
       julia> notebook()
       ```
+      
 *	NBA Player Statistics Data Frame Source – “Player Statistics” Sheet of nba_data_2019_2020.xlsx
 *	NBA Player Salaries Data Frame Source – “Salaries” Sheet of nba_data_2019_2020.xlsx
 *	NBA Team Statistics Data Frame Source – “Team Statistics” Sheet of nba_data_2019_2020.xlsx
