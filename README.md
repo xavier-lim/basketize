@@ -9,7 +9,7 @@ To view the article I wrote about my model on LinkedIn, please visit: [Basketize
 
 ## Table of Contents
 1.	[Project Tools](https://github.com/xavier-lim/basketize#project-tools)
-2.	[Data Sources](https://github.com/xavier-lim/basketize#data-source)
+2.	[Data Source](https://github.com/xavier-lim/basketize#data-source)
 3.	[Power BI Project Dashboards](https://github.com/xavier-lim/basketize#power-bi-project-dashboards)
 4.	[Conclusion](https://github.com/xavier-lim/basketize#conclusion)
 5.	[Acknowledgements](https://github.com/xavier-lim/basketize#acknowledgements)
