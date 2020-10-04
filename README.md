@@ -32,6 +32,7 @@ For my project, I will collect three data sets from [Basketball Reference](https
 
 
 ## Power BI Project Dashboards
+Interactive Version: [Basketize Dashboards](https://xavier-lim.github.io/BasketizeDashboards.html)
 ![Correlations](https://github.com/xavier-lim/basketize/blob/master/images/correlations.PNG)
 
 ---
