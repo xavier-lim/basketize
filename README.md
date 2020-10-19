@@ -54,4 +54,4 @@ In conclusion, winning teams tend to score a lot of points, play good defense, r
 
 ## Author
 
-* **Xavier Lim** - [LinkedIn](https://www.linkedin.com/in/xavier-lim14/) | [Portfolio Website]( https://xavier-lim.github.io/)
+* **Xavier Lim** - [LinkedIn](https://www.linkedin.com/in/xavier-lim14/)  |  [Portfolio Website]( https://xavier-lim.github.io/)  |  [Tableau Public](https://public.tableau.com/profile/xavier.lim#!/)
